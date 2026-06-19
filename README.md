@@ -1,17 +1,18 @@
-# bedrock-bypass
 Basitce MC Lisans Atlama Aracı📣
 Minecraft 26.20+ için kaynak kodu güncel değildir
 Nasıl Kullanılır❔
-Minecraftforfree DLL'sini indirin.
+Minecraftforfree DLL'sini indirin. https://github.com/kokluk/BedrockBypass/releases/download/26.20%2B/MinecraftForFree.dll
 
-Burdan Vcruntime'ı indirin.
+Burdan Vcruntime'ı indirin. https://github.com/kokluk/BedrockFree/releases/download/McBedrock/vcruntime140_1.dll
 
 Kurulumunu yapın ↙️
 
 vcruntime140_1.dll dosyasını indirip C:\XboxGames\Minecraft for Windows\Content'e atın. Önizleme
+
 Minecraftforfree DLL'sini Win + R Yapıp Appdata Yazın ve AppData\Roaming\Minecraft Bedrock\mods klasörüne yerleştirin. Önizleme
+
 Not: Mods Klasör'ü yoksa oluşturun veya ModLoader'ın klasörü oluşturması için Minecraft'ı bir kez başlatın.
 
-Son olarak oyunu başlatın — Keyifli oyunlar.
+Son olarak oyunu başlatın — Keyifli oyunlar.😽
 
-Bu kadar! Ekstra bişey yok.
+Bu kadar! Ekstra bişey yok.🔥
